@@ -4,6 +4,7 @@ A repository of primary studies and filtering to obtain primary studies for an A
 ## Instructions
 All documents were obtained by using the exact search phrase "API Evolution" (Using quotation marks, and in a single string).
 This search phrase was used with the following online publishers:
+
 	* ACM Digital Library
 	* Elsevier Science Direct
 	* IEEE Xplore Digital Library
