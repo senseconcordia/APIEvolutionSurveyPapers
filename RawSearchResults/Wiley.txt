@@ -1,0 +1,100 @@
+
+TY  - JOUR
+AU  - Dig, Danny
+AU  - Johnson, Ralph
+TI  - How do APIs evolve? A story of refactoring
+JO  - Journal of Software Maintenance and Evolution: Research and Practice
+JA  - J. Softw. Maint. Evol.: Res. Pract.
+VL  - 18
+IS  - 2
+SN  - 1532-060X
+UR  - https://doi.org/10.1002/smr.328
+DO  - https://doi.org/10.1002/smr.328
+SP  - 83
+EP  - 107
+KW  - API evolution
+KW  - refactoring
+KW  - frameworks
+KW  - libraries
+KW  - component reuse
+KW  - backwards compatibility
+PY  - 2006
+AB  - Abstract Frameworks and libraries change their APIs. Migrating an application to the new API is tedious and disrupts the development process. Although some tools and ideas have been proposed to solve the evolution of APIs, most updates are done manually. To better understand the requirements for migration tools, we studied the API changes of four frameworks and one library. We discovered that the changes that break existing applications are not random, but tend to fall into particular categories. Over 80% of these changes are refactorings. This suggests that refactoring-based migration tools should be used to update applications. Copyright ? 2006 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Nguyen, Ai G.
+AU  - Sohn, Richard L.
+TI  - Refactoring administrative services module platform software
+JO  - Bell Labs Technical Journal
+JA  - Bell Labs Tech. J.
+VL  - 8
+IS  - 3
+SN  - 1089-7089
+UR  - https://doi.org/10.1002/bltj.10080
+DO  - https://doi.org/10.1002/bltj.10080
+SP  - 105
+EP  - 110
+PY  - 2003
+AB  - Abstract A well-defined, fully backward-compatible application programming interface (API) allowed Lucent Technologies' administrative services module software to be transformed over six releases to incorporate architectural changes driven by market needs not envisioned in its original conception. We describe this software, the changing demands placed on it, how it was refactored, and our guiding strategies. ? 2003 Lucent Technologies Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Li, Daoyuan
+AU  - Li, Li
+AU  - Kim, Dongsun
+AU  - Bissyandé, Tegawendé F.
+AU  - Lo, David
+AU  - Le Traon, Yves
+C7  - e2181
+C8  - smr.2181
+TI  - Watch out for this commit! A study of influential software changes
+JO  - Journal of Software: Evolution and Process
+JA  - J Softw Evol Proc
+VL  - 31
+IS  - 12
+SN  - 2047-7473
+UR  - https://doi.org/10.1002/smr.2181
+DO  - https://doi.org/10.1002/smr.2181
+SP  - e2181
+KW  - change prediction
+KW  - change risk
+KW  - influential change
+KW  - software changes
+KW  - software evolution
+PY  - 2019
+AB  - Abstract One single code change can significantly influence a wide range of software systems and their users. For example, (a) adding a new feature can spread defects in several modules, while (b) changing an API method can improve the performance of all client programs. Unfortunately, developers often may not clearly know whether code changes are influential at commit time. This paper investigates influential software changes and proposes an approach to identify them immediately when they are applied. Our goals are to (a) identify existing influential changes (ICs) in software projects, (b) understand their characteristics, and (c) build a classification model of ICs to help developers find and address them early. We first conduct a post-mortem analysis to discover existing influential changes by using intuitions (eg, changes referred by other changes). Then, we re-categorize all identified changes through an open-card sorting process. Subsequently, we conduct a survey with about 100 developers to finalize a taxonomy. Finally, from our ground truth, we extract features, including metrics such as the complexity of changes and file centrality in co-change graphs to build machine learning classifiers. The experiment results show that our classification model with random samples achieves 86.8% precision, 74% recall, and 80.4% F-measure, respectively.
+ER  - 
+
+TY  - JOUR
+AU  - Gregersen, Allan Raundahl
+AU  - Jørgensen, Bo Nørregaard
+TI  - Dynamic update of Java applications—balancing change flexibility vs programming transparency
+JO  - Journal of Software Maintenance and Evolution: Research and Practice
+JA  - J. Softw. Maint. Evol.: Res. Pract.
+VL  - 21
+IS  - 2
+SN  - 1532-060X
+UR  - https://doi.org/10.1002/smr.406
+DO  - https://doi.org/10.1002/smr.406
+SP  - 81
+EP  - 112
+KW  - dynamic update
+KW  - software maintenance
+KW  - software evolution
+PY  - 2009
+AB  - Abstract The ability to dynamically change the behavior of an application is becoming an important issue in contemporary rich client software development. Not only can programmers benefit from dynamic updates during the development of concurrent applications where recreation of complex application states can be avoided during test and debugging but also at post-deployment time where applications can be updated transparently without going through the well-known halt, redeploy and restart scheme. In this paper, we explain how our dynamic update framework achieves transparent dynamic updates of running Java applications while guaranteeing both type and thread safety. A novel feature of our approach is that it supports full redefinition of classes by allowing changes to the type hierarchy. Our approach is based on a lightweight runtime system, which is injected into an application via bytecode transformations at class loading. We show how our approach can add dynamic update capabilities to rich client development by integrating it with the NetBeans rich client platform. Performance experiments on our NetBeans implementation show that the overhead of our approach is low when applied to component application programming interface classes. To the best of our knowledge no other existing approach achieves the same level of low overhead and programming transparency. Copyright ? 2009 John Wiley & Sons, Ltd.
+ER  - 
+
+C7  - pp. 95-176
+TI  - Putting Evolvable Hardware to Use
+SN  - 9780471719779
+UR  - https://doi.org/10.1002/0470049715.ch5
+DO  - https://doi.org/10.1002/0470049715.ch5
+SP  - 95-176
+KW  - EHW in circuit synthesis and hardware adaption
+KW  - fault tolerant systems using EHW
+KW  - commercial-off-the-shelf (COTS) devices in EHW applications
+PY  - 2009
+AB  - Summary This chapter contains sections titled: Synthesis vs. Adaption Designing Self-Adaptive Systems Creating Fault Tolerant Systems Using EHW Why Intrinsic Reconfiguration for Online Systems? Quantifying Intrinsic Reconfiguration Time Putting Theory Into Practice Examples of EHW-Based Fault Recovery Remarks References
+ER  - 
