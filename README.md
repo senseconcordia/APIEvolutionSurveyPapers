@@ -17,13 +17,13 @@ These searches presented some duplicate results, which were removed by a simple 
 The remainder of the papers were filtered manually with the following criteria:
 
 	* Studies must be written in English
-	* Studies must be related to the field of computer science or software engineering
+	* Studies must be related to computer science or software engineering
 	* Studies should have a relation to API evolution
 	* Studies must not be a Master or PhD thesis
 	* Studies must be fully available from one or more online library
 	* Studies must be published between January 1st 1994 and January 1st 2021
 	
 We do not limit our search by publication venue (All conferences, journals, and magazines that are available from these sources were accepted)
-The complete list of papers selected for our API Evolution study can be found in the file "" in this repository.
+The complete list of papers selected for our API Evolution study can be found in the file "primary_studies.xlsx" in this repository.
 
 Our approach may have missed some papers that indeed do represent the field. If one of your papers was not used, we sincerely apologize.
